@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Sawalakhe</h1>
 <h3 align="center">Aspiring AI/ML Engineer | Full Stack Developer | Data Enthusiast | Tech Explorer</h3>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 Currently learning **Deep Learning, Docker, Cloud Deployment (AWS)**  
 - 💡 Exploring **AI-driven apps**, **FastAPI**, and **real-time data systems**
