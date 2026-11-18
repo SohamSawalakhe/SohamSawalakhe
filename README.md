@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://soham-portfolio-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://sohamsawalakhe.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sawalakhe-901366278/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamsawalakhe@gmail.com)
 
@@ -22,6 +22,10 @@
 ## About Me
 
 I'm a backend-leaning full-stack developer. At **Sitarahub** I build the plumbing behind ERP, WhatsApp communication, lead management and event platforms: REST APIs, job queues, S3 media pipelines and real-time inboxes. Outside work I dig into ML, data analytics and security.
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=7EE787&background=0D1117&width=620&height=130&lines=%24+npm+run+dev;%E2%9C%93+API+ready+on+port+5000;%24+npx+prisma+migrate+deploy;%E2%9C%93+Database+in+sync;%24+git+commit+-m+%22ship+it%22;%E2%9C%93+Deployed+to+production" alt="coding animation" />
+</div>
 
 ```ts
 const soham = {
@@ -196,8 +200,6 @@ REST API, admin features and relational data.
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SohamSawalakhe&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=SohamSawalakhe&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-
 </div>
 
 ---
@@ -244,7 +246,7 @@ Software engineering, backend architecture, AI/ML, interesting projects or roles
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamsawalakhe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-sawalakhe-901366278/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://soham-portfolio-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-F5A623?style=for-the-badge&logo=vercel&logoColor=white)](https://sohamsawalakhe.space)
 
 <sub><i>Building today. Learning continuously. Engineering tomorrow.</i></sub>
 
