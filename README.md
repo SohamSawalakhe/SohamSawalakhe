@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Soham%20Sawalakhe&fontColor=F5A623&fontSize=58&fontAlignY=42&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descSize=20&descAlignY=64&animation=fadeIn" alt="Soham Sawalakhe" />
+<img width="100%" src="assets/hero.svg" alt="Developer at a desk" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=800&height=40&lines=Backend+Developer+%40+Sitarahub;Full-Stack+Engineer+%7C+Node.js+%C2%B7+TypeScript+%C2%B7+Prisma;Queues%2C+webhooks%2C+WebSockets+and+clean+APIs;Exploring+AI%2FML+%26+Data+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=1000&height=40&lines=Backend+Developer+%40+Sitarahub;Full-Stack+Engineer;Node.js+%C2%B7+TypeScript+%C2%B7+Prisma+%C2%B7+PostgreSQL;Queues+%C2%B7+Webhooks+%C2%B7+WebSockets;Exploring+AI%2FML+%26+Data+Engineering" alt="Typing SVG" />
 
 <br/>
 
