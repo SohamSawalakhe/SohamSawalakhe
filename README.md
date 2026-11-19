@@ -45,124 +45,39 @@ const soham = {
 
 ## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Backend Developer** · Sitarahub &nbsp;`Jan 2026 – Present` &nbsp;Mumbai
 
-**Backend Developer · Sitarahub**<br/>
-<sub>Jan 2026 – Present · Mumbai</sub>
+> Backend for ERP, CRM, WhatsApp and business platforms. REST APIs and DB workflows on Node.js, TypeScript, Prisma and PostgreSQL. AWS S3 media pipelines (compression, bulk uploads, filtering, pagination). Real-time inbox over WebSockets. Auth, reliability and production debugging.
 
-- Backend for ERP, CRM, WhatsApp and business platforms
-- REST APIs and DB workflows on Node.js, TypeScript, Prisma, PostgreSQL
-- AWS S3 media pipelines: compression, bulk uploads, filtering, pagination
-- Real-time inbox and conversations over WebSockets
-- Auth, reliability and production debugging
+**Full-Stack Developer Intern** · TechElevare &nbsp;`Aug 2025 – Dec 2025` &nbsp;Pune
 
-</td>
-<td width="50%" valign="top">
-
-**Full-Stack Developer Intern · TechElevare**<br/>
-<sub>Aug 2025 – Dec 2025 · Pune</sub>
-
-- Responsive UIs and reusable React components
-- Node.js / Express APIs backed by MySQL
-- Python and Scikit-learn features inside app workflows
-- Agile delivery with the team
-
-</td>
-</tr>
-</table>
+> Responsive UIs and reusable React components. Node.js and Express APIs backed by MySQL. Python and Scikit-learn features inside app workflows. Agile delivery with the team.
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+#### GPSERP &nbsp;·&nbsp; WhatsApp ERP & marketing automation
+Built on the official Meta WhatsApp Business Cloud API. Bulk campaigns through BullMQ queues, webhook processing and delivery tracking, a real-time inbox, leads, templates and catalogs, multi-tenant with role-based access.
 
-### GPSERP
-**WhatsApp ERP & marketing automation**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws)
 
-Built on the official Meta WhatsApp Business Cloud API.
+#### IGTF &nbsp;·&nbsp; B2B trade fair platform
+Connects exhibitors, investors, franchisors and visitors. Registrations, stalls, leads and payments with a central admin for organizers. Built for 400+ exhibitors and 6,000+ buyers across 16 sectors.
 
-- Bulk messaging and campaigns via BullMQ queues
-- Webhook processing and delivery tracking
-- Real-time inbox, leads, templates, catalogs
-- Multi-tenant with role-based access
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 
-<sub>Next.js · Express · TypeScript · PostgreSQL · Prisma · Redis · AWS S3</sub>
+#### Darzi &nbsp;·&nbsp; Garment alteration marketplace
+On-demand alterations from verified local studios. Geo-dispatch with an expanding search radius, a 9-stage order lifecycle, OTP-based pickup verification, transparent pricing and live order tracking.
 
-</td>
-<td width="50%" valign="top">
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-### IGTF
-**B2B trade fair platform**
+#### Covert Database Detection &nbsp;·&nbsp; Research desktop app
+Finds hidden data and concealed databases using steganography and cryptography-based detection, Alternate Data Streams and file-chunk analysis, with ML assistance and a Tkinter UI.
 
-Connects exhibitors, investors, franchisors and visitors.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-0f2027?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-- Registrations, stalls, leads and payments
-- Central admin for organizers
-- 400+ exhibitors · 6,000+ buyers · 16 sectors
-
-<sub>Next.js · Django REST · PostgreSQL · CloudFront · Resend · Twilio</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Darzi
-**Garment alteration marketplace**
-
-On-demand alterations from verified local studios.
-
-- Geo-dispatch with expanding search radius
-- 9-stage order lifecycle
-- OTP-based pickup verification
-- Transparent pricing and order tracking
-
-<sub>Next.js · Express · Prisma · PostgreSQL · AWS · Google Maps API</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### Covert Database Detection
-**Research desktop app**
-
-Finds hidden data and concealed databases.
-
-- Steganography and cryptography-based detection
-- Alternate Data Streams and file-chunk analysis
-- ML-assisted detection, Tkinter UI
-
-<sub>Python · Tkinter · Machine Learning</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### AnySearch
-**Desktop file search utility**
-
-Fast file discovery behind a simple GUI.
-
-<sub>Python · Tkinter · File System</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### Library Management System
-**Database-driven admin app**
-
-REST API, admin features and relational data.
-
-<sub>Python · Django · DRF · MySQL</sub>
-
-</td>
-</tr>
-</table>
+**More:** `AnySearch` desktop file search (Python, Tkinter) · `Library Management System` (Django, DRF, MySQL)
 
 ---
 
